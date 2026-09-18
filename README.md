@@ -28,11 +28,11 @@ need in the AI era: someone who **understands the model AND the machine it runs 
 
 | Role | Org | Period |
 |---|---|---|
-| **AI Engineer** | **Crayon (SolvStrat)** | **Apr 2026 – Present** |
+| **AI Engineer** | **Crayon biz LLP(SolvStrat) Chennai** | **Apr 2026 – Present** |
 | **Data Software Engineer** | **Spark Solutions** | **Dec 2024 – Jun 2025** |
 | **Web Developer** | **NullClass** | **Jun 2022 – Dec 2022** |
 
-**Crayon** — AI-native business tooling + SolvStrat web platform. LLM features wired into production backends.
+**Crayon Biz LLP** — AI-native business tooling + SolvStrat web platform. LLM features wired into production backends.
 **Spark Solutions** — data + backend engineering, ETL, proposal/report automation.
 **NullClass** — full-stack web dev, shipped production features.
 
@@ -60,9 +60,9 @@ Conversational ops/support bot for Armour Cyber. Handles queries, automation and
 Automated proposal generation service. Structured input → polished proposal docs. Built for speed + repeatability.
 `Node.js · LLM APIs · Templating`
 
-**⛪ FCA Madras Chennai — End-to-End Azure Build**
-Proud to help build their site — features + backend design + end-to-end production system. On-prem DB → Azure cloud migration, production ETL, Linux admin, deployment. One person, full ownership.
-`Azure · ETL · SQL · Linux · Backend + Frontend`
+**⛪ FCMadras Chennai — FULL STACK WORDPRESS AND PHP**
+Proud to help build their site — features + backend design + end-to-end production system. WP UI Design, production PHP backend code, Linux admin (digital ocean fcmadras own ssh remote server), deployment. One person, full ownership.
+`Wordpress · PHP · SQL · Linux · Backend + Frontend`
 
 **🏢 SolvStrat Web — Crayon**
 SolvStrat web projects. AI-assisted business workflows in production.
@@ -120,9 +120,9 @@ SolvStrat web projects. AI-assisted business workflows in production.
 
 ### 🤝 Let's connect
 
-- 💼 **Open to:** AI engineering, full-stack builds, cloud/data migration, product collaboration
+- 💼 **Open to:** AI engineering, full-stack builds, cloud/data migration, product collaboration and everything
 - 📬 **Fastest:** **ajaniarafath@gmail.com**
-- ⚡ **Why me:** LLM + backend + data + Linux + cloud in one person. I take it from on-prem mess to production, and I stay till it runs.
+- ⚡ **Why me:** Frontend + LLM + backend + data + Linux + cloud in one person. I take it from on-prem mess to production, and I stay till it runs.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Janiarafath&style=flat-square&color=6366F1" alt="profile views" />
